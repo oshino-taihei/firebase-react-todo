@@ -15,6 +15,12 @@ $ cd firebase-react-todo
 $ firebase init
 ```
 
+# モジュール
+```
+$ npm install firebase --save
+
+```
+
 # ビルド
 ```
 $ npm run build

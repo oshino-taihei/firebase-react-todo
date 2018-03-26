@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "react-todo-a5363"
+    "default": "react-todo-a5363",
+    "react-todo": "react-todo-a5363"
   }
 }
